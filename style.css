@@ -882,7 +882,7 @@ input:focus{
     --h1Font:3rem;
     --h2Font:2.25rem;
     --h3Font:1.625rem;
-    --pSize:0.75rem;
+    --pSize:1rem;
     --altPSize:1rem;
     --otherTexts:1.25rem;
 }
