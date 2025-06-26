@@ -998,6 +998,10 @@ h1{
     height:47.3125rem;
 }
 
+.about .container .right{
+    text-align:center;
+}
+
 .facts .container{
     width:20.3125rem;
     height:49.8125rem;
