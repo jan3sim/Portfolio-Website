@@ -30,6 +30,8 @@ html, body {
     --pSize:2.125rem;
     --altPSize:2rem;
     --otherTexts:1.5rem;
+    color-scheme: light only;
+
 }
 
 body{
