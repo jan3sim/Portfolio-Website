@@ -328,13 +328,14 @@ h3{
 }
 
 .contactMe .container{
-    display:flex;
-    flex-direction: column;
-    justify-content: space-between;
-    width:65.3125rem;
-    height:57rem;
-    margin-top:5%;
-    margin-bottom:5%;
+    width: 90%;
+  max-width: 65.3125rem;
+  margin: 5% auto;
+  padding: 0 1rem; /* Optional side padding */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
 
 }
 
