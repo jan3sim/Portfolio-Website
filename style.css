@@ -435,7 +435,6 @@ input:focus{
 .contactMe .container .bottom button{
     width:12.75rem;
     height:3.6875rem;
-    align-self:center;
     padding:2%;
     font-size:var(--otherTexts);
 }
@@ -1077,6 +1076,10 @@ h1{
     height:41.3125rem;
 
 
+}
+
+.contactMe .container .bottom .left button{
+  align-self:center;
 }
 
 .contactMe .container .bottom .right{
