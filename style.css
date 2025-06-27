@@ -1074,12 +1074,14 @@ h1{
 .contactMe .container .bottom .left{
     width:24.625rem;
     height:41.3125rem;
+    
 
 
 }
 
 .contactMe .container .bottom .left button{
   align-self:center;
+  
 }
 
 .contactMe .container .bottom .right{
@@ -1100,13 +1102,13 @@ h1{
 
 
 .contactInput{
-    max-width:24.625rem;
+    max-width:22.75rem;
     height:3.9375rem;
     
 }
 
 #contactEmailContent{
-    max-width:24.625rem;
+    max-width:22.75rem;
     height:12.875rem;
 }
 
@@ -1116,5 +1118,4 @@ h1{
 
 
 }
-
 
