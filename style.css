@@ -331,8 +331,9 @@ h3{
   width: 90%;
   max-width: 65.3125rem;
   margin: 5% auto;
-  padding: 0 1rem; /* Optional side padding */
+  padding: 0 1rem;
   display: flex;
+  height:57rem;
   flex-direction: column;
   justify-content: space-between;
 
@@ -342,7 +343,7 @@ h3{
 .contactMe .container .bottom{
     display:flex;
     justify-content: space-between;
-    height:43.3125rem;
+    height:44.5625rem;
     margin-top:4%;
     margin-bottom:6%;
 
@@ -352,6 +353,7 @@ h3{
 .contactMe .container .bottom .left{
     display:flex;
     flex-direction: column;
+    width:38.5rem;
     height:100%;
     justify-content: space-between;
     
@@ -364,6 +366,8 @@ h3{
     height:39.4375rem;
     max-width:38.5rem;
     width:100%;
+    background:blue;
+    
     
 }
 
@@ -388,14 +392,14 @@ h3{
 }
 
 #contactEmailContent{
-    max-width:38.4375rem;
+    
     width:100%;
     height:12.875rem;
     border:none;
     color:var(--headingColor);
     font-size:var(--otherTexts);
     border-radius:15px;
-    margin-bottom:5%;
+    margin-bottom:3%;
     overflow:scroll;
     padding:1%;
 
@@ -1093,13 +1097,13 @@ h1{
 
 
 .contactInput{
-    width:24.625rem;
+    max-width:24.625rem;
     height:3.9375rem;
     
 }
 
 #contactEmailContent{
-    width:24.625rem;
+    max-width:24.625rem;
     height:12.875rem;
 }
 
